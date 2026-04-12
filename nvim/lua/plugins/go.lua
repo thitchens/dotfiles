@@ -4,6 +4,7 @@ return {
 		"ray-x/guihua.lua",
 		"neovim/nvim-lspconfig",
 		"nvim-treesitter/nvim-treesitter",
+		"akinsho/toggleterm.nvim",
 	},
 	config = function()
 		require("go").setup()
