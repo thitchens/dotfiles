@@ -29,6 +29,6 @@ local opts = {} -- your lazy configuration
 
 require("lazy").setup(plugins, opts)
 
-vim.api.nvim_command("colorscheme gruvbox")
---vim.api.nvim_command('colorscheme tokoyonight')
+--vim.api.nvim_command("colorscheme gruvbox")
+vim.api.nvim_command("colorscheme tokyonight")
 --vim.api.nvim_command('colorscheme catppuccin-macchiato')
