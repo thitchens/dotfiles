@@ -10,6 +10,6 @@ return {
 		notifier = { enabled = true },
 	},
 	keys = {
-		{ "n", "<leader>n", notifications, desc = "Show Notifications" },
+		{ "<leader>kn", notifications, desc = "Show Notifications" },
 	},
 }
